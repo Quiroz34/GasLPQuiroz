@@ -1,0 +1,12 @@
+{
+  "name": "mi-pagina-gaslp",
+  "version": "1.0.0",
+  "description": "Página web de una pipa de gas LP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
